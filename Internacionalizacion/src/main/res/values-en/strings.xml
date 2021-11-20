@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internacionalization</string>
+    <string name="saludo">Hello World!!</string>
+    <string name="saludo2">Hello World2!!</string>
+    <string name="boton">Click me</string>
+</resources>
+

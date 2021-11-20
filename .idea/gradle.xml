@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Internacionalizacion" />
+            <option value="$PROJECT_DIR$/ejEditText" />
+            <option value="$PROJECT_DIR$/ejRadioGroup" />
+            <option value="$PROJECT_DIR$/ejToogleImage" />
+            <option value="$PROJECT_DIR$/ejcuadrodialogo" />
+            <option value="$PROJECT_DIR$/ejinicial" />
+            <option value="$PROJECT_DIR$/ejinicial2" />
+            <option value="$PROJECT_DIR$/ejlayout" />
+            <option value="$PROJECT_DIR$/ejlayouts2" />
+            <option value="$PROJECT_DIR$/ejlayouts3" />
+            <option value="$PROJECT_DIR$/ejseleccion" />
+            <option value="$PROJECT_DIR$/ejspinners" />
+            <option value="$PROJECT_DIR$/myapplication" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
